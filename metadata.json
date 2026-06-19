@@ -1,0 +1,6 @@
+{
+  "name": "منصة البث الرياضي المباشر",
+  "description": "منصة مشاهدة مباريات كرة قدم متطورة بأسلوب Single Page Application مع تصميم ليلي وتجربة مستخدم متميزة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
